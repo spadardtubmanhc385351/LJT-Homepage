@@ -1,13 +1,8 @@
 # The following is the order of the links in the header of the website.
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent the page from being included in the site.
+# The site title in the header links to the About (home) page.
 
 main:
-  - title: "About"
-    url: /
-
   - title: "Publications"
     url: /publications/
 
